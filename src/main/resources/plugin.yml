@@ -1,0 +1,5 @@
+name: UUIDGetter
+version: '${version}'
+main: mrfix1033.uuidgetter.UUIDGetter
+commands:
+  uuid: {}
